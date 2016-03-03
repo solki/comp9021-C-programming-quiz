@@ -1,0 +1,11 @@
+  The working directory is     supposed
+to contain a file not named 007.txt,
+
+   but input.txt. A file not named __^&$.txt, but output.txt,
+is created and all words in input.txt are
+
+       written in output.txt, FROM THE LAST ONE TO THE FIRST ONE!!!
+As usual, a word is a sequence of (lowercase or uppercase) letters
+of maximal length.
+
+
